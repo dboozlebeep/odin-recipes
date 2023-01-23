@@ -1,1 +1,2 @@
 # odin-recipes
+This simple website allows the user to choose from a selection of recipes using their internet browser. The goal of this project is to demonstrate combined HTML, Linux, bash, and Git development skills.
